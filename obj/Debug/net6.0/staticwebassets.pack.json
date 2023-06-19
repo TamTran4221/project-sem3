@@ -1,0 +1,1541 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\eproject-sem3.bundle.scp.css",
+      "PackagePath": "staticwebassets\\eproject-sem3.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\css\\boxicons.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\boxicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\css\\color\\brink-pink-style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\color\\brink-pink-style.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\css\\color\\pink-style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\color\\pink-style.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\css\\color\\purple-style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\color\\purple-style.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\css\\dark-color\\brink-pink-dark-style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\dark-color\\brink-pink-dark-style.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\css\\dark-color\\dark-style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\dark-color\\dark-style.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\css\\dark-color\\pink-dark-style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\dark-color\\pink-dark-style.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\css\\dark-color\\purple-dark-style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\dark-color\\purple-dark-style.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\assets\\css\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\css\\magnific-popup.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\magnific-popup.min.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\css\\meanmenu.css",
+      "PackagePath": "staticwebassets\\assets\\css\\meanmenu.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\css\\odometer.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\odometer.min.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\css\\owl.video.play.html",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.video.play.html"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\assets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\css\\slick.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\slick.min.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\fonts\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\fonts\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\fonts\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\fonts\\Flaticon.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Flaticon.woff2"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\fonts\\Flaticond41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Flaticond41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\fonts\\boxicons.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\boxicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\fonts\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\boxicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\fonts\\boxicons.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\boxicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\fonts\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\boxicons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\fonts\\boxiconsd41d.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\boxiconsd41d.svg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\about-shape1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\about-shape1.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\about-shape2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\about-shape2.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\about1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\about2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\about3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\about4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\about4.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\agency-image\\about-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\agency-image\\about-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\agency-image\\banner-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\agency-image\\banner-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\agency-image\\gradient-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\agency-image\\gradient-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\agency-image\\icon-bg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\agency-image\\icon-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\agency-image\\services-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\agency-image\\services-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\agency-image\\services-img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\agency-image\\services-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\agency-image\\services-img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\agency-image\\services-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\agency-image\\services-img4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\agency-image\\services-img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\agency-image\\services-img5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\agency-image\\services-img5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\agency-image\\services-img6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\agency-image\\services-img6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\agency-image\\shape1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\agency-image\\shape1.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\agency-image\\shape2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\agency-image\\shape2.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\agency-image\\user1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\agency-image\\user1.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\agency-image\\user2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\agency-image\\user2.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\agency-image\\user3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\agency-image\\user3.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\agency-image\\user4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\agency-image\\user4.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\agency-image\\user5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\agency-image\\user5.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\agency-image\\user6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\agency-image\\user6.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\agency-portfolio-about-image\\img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\agency-portfolio-about-image\\img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\agency-portfolio-about-image\\img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\agency-portfolio-about-image\\img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\agency-portfolio-about-image\\img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\agency-portfolio-about-image\\img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\agency-portfolio-main-banner\\img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\agency-portfolio-main-banner\\img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\agency-portfolio-main-banner\\img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\agency-portfolio-main-banner\\img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\agency-portfolio-main-banner\\img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\agency-portfolio-main-banner\\img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\agency-portfolio-partner-image\\img1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\agency-portfolio-partner-image\\img1.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\agency-portfolio-partner-image\\img2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\agency-portfolio-partner-image\\img2.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\agency-portfolio-partner-image\\img4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\agency-portfolio-partner-image\\img4.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\agency-portfolio-partner-image\\img5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\agency-portfolio-partner-image\\img5.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\agency-portfolio-partner-image\\img6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\agency-portfolio-partner-image\\img6.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\agency-portfolio-projects\\img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\agency-portfolio-projects\\img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\agency-portfolio-projects\\img10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\agency-portfolio-projects\\img10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\agency-portfolio-projects\\img11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\agency-portfolio-projects\\img11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\agency-portfolio-projects\\img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\agency-portfolio-projects\\img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\agency-portfolio-projects\\img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\agency-portfolio-projects\\img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\agency-portfolio-projects\\img4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\agency-portfolio-projects\\img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\agency-portfolio-projects\\img5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\agency-portfolio-projects\\img5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\agency-portfolio-projects\\img6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\agency-portfolio-projects\\img6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\agency-portfolio-projects\\img7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\agency-portfolio-projects\\img7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\agency-portfolio-projects\\img8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\agency-portfolio-projects\\img8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\agency-portfolio-projects\\img9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\agency-portfolio-projects\\img9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\author1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\author1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\author2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\author2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\author3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\author3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\banner-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\banner-bg1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner-bg1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\banner-image\\bin.png",
+      "PackagePath": "staticwebassets\\assets\\img\\banner-image\\bin.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\banner-image\\book.png",
+      "PackagePath": "staticwebassets\\assets\\img\\banner-image\\book.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\banner-image\\carpet.png",
+      "PackagePath": "staticwebassets\\assets\\img\\banner-image\\carpet.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\banner-image\\code.png",
+      "PackagePath": "staticwebassets\\assets\\img\\banner-image\\code.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\banner-image\\dekstop.png",
+      "PackagePath": "staticwebassets\\assets\\img\\banner-image\\dekstop.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\banner-image\\dot.png",
+      "PackagePath": "staticwebassets\\assets\\img\\banner-image\\dot.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\banner-image\\flower-top-big.png",
+      "PackagePath": "staticwebassets\\assets\\img\\banner-image\\flower-top-big.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\banner-image\\flower-top.png",
+      "PackagePath": "staticwebassets\\assets\\img\\banner-image\\flower-top.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\banner-image\\headphone.png",
+      "PackagePath": "staticwebassets\\assets\\img\\banner-image\\headphone.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\banner-image\\keyboard.png",
+      "PackagePath": "staticwebassets\\assets\\img\\banner-image\\keyboard.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\banner-image\\main-pic.png",
+      "PackagePath": "staticwebassets\\assets\\img\\banner-image\\main-pic.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\banner-image\\man.png",
+      "PackagePath": "staticwebassets\\assets\\img\\banner-image\\man.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\banner-image\\pen.png",
+      "PackagePath": "staticwebassets\\assets\\img\\banner-image\\pen.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\banner-image\\table.png",
+      "PackagePath": "staticwebassets\\assets\\img\\banner-image\\table.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\banner-image\\tea-cup.png",
+      "PackagePath": "staticwebassets\\assets\\img\\banner-image\\tea-cup.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\bigdata-analytics\\analytics-shape1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\bigdata-analytics\\analytics-shape1.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\bigdata-analytics\\discover-img1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\bigdata-analytics\\discover-img1.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\bigdata-analytics\\discover-img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bigdata-analytics\\discover-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\bigdata-analytics\\funfacts-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bigdata-analytics\\funfacts-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\bigdata-analytics\\icon1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\bigdata-analytics\\icon1.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\bigdata-analytics\\icon2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\bigdata-analytics\\icon2.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\bigdata-analytics\\icon3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\bigdata-analytics\\icon3.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\bigdata-analytics\\icon4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\bigdata-analytics\\icon4.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\bigdata-analytics\\icon5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\bigdata-analytics\\icon5.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\bigdata-analytics\\icon6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\bigdata-analytics\\icon6.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\bigdata-analytics\\main-banner.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bigdata-analytics\\main-banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\bigdata-analytics\\newsletter.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bigdata-analytics\\newsletter.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\bigdata-analytics\\rectangle.png",
+      "PackagePath": "staticwebassets\\assets\\img\\bigdata-analytics\\rectangle.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\bigdata-analytics\\vector.png",
+      "PackagePath": "staticwebassets\\assets\\img\\bigdata-analytics\\vector.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\blog-image\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog-image\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\blog-image\\10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog-image\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\blog-image\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog-image\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\blog-image\\12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog-image\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\blog-image\\13.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog-image\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\blog-image\\14.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog-image\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\blog-image\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog-image\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\blog-image\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog-image\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\blog-image\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog-image\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\blog-image\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog-image\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\blog-image\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog-image\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\blog-image\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog-image\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\blog-image\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog-image\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\blog-image\\9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog-image\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\circle.png",
+      "PackagePath": "staticwebassets\\assets\\img\\circle.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\client-image\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\client-image\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\client-image\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\client-image\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\client-image\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\client-image\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\client-image\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\client-image\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\client-image\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\client-image\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\coming-soon.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\coming-soon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\creative-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\creative-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\cta-shape.png",
+      "PackagePath": "staticwebassets\\assets\\img\\cta-shape.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\cta-shape2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\cta-shape2.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\features-details-image\\1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\features-details-image\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\features-details-image\\2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\features-details-image\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\free-trial-img.png",
+      "PackagePath": "staticwebassets\\assets\\img\\free-trial-img.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\hosting-banner-image\\1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\hosting-banner-image\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\hosting-banner-image\\2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\hosting-banner-image\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\hosting-banner-image\\3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\hosting-banner-image\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\hosting-banner-image\\4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\hosting-banner-image\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\hosting-banner-image\\5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\hosting-banner-image\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\hosting-banner-image\\6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\hosting-banner-image\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\hosting-banner-image\\7.png",
+      "PackagePath": "staticwebassets\\assets\\img\\hosting-banner-image\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\hosting-banner-image\\8.png",
+      "PackagePath": "staticwebassets\\assets\\img\\hosting-banner-image\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\hosting-banner-image\\9.png",
+      "PackagePath": "staticwebassets\\assets\\img\\hosting-banner-image\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\hosting-banner-image\\static-main.png",
+      "PackagePath": "staticwebassets\\assets\\img\\hosting-banner-image\\static-main.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\icon1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon1.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\icon2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon2.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\icon3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon3.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\icon4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon4.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\icon5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon5.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\icon6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon6.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\icon7.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icon7.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\iot-banner-image\\1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\iot-banner-image\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\iot-banner-image\\2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\iot-banner-image\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\iot-features-image\\1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\iot-features-image\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\iot-features-image\\2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\iot-features-image\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\layer.png",
+      "PackagePath": "staticwebassets\\assets\\img\\layer.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\man-and-women.png",
+      "PackagePath": "staticwebassets\\assets\\img\\man-and-women.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\map.png",
+      "PackagePath": "staticwebassets\\assets\\img\\map.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\ml-banner-image\\1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\ml-banner-image\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\ml-banner-image\\10.png",
+      "PackagePath": "staticwebassets\\assets\\img\\ml-banner-image\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\ml-banner-image\\11.png",
+      "PackagePath": "staticwebassets\\assets\\img\\ml-banner-image\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\ml-banner-image\\2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\ml-banner-image\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\ml-banner-image\\3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\ml-banner-image\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\ml-banner-image\\4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\ml-banner-image\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\ml-banner-image\\5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\ml-banner-image\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\ml-banner-image\\6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\ml-banner-image\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\ml-banner-image\\7.png",
+      "PackagePath": "staticwebassets\\assets\\img\\ml-banner-image\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\ml-banner-image\\8.png",
+      "PackagePath": "staticwebassets\\assets\\img\\ml-banner-image\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\ml-banner-image\\9.png",
+      "PackagePath": "staticwebassets\\assets\\img\\ml-banner-image\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\ml-banner-image\\main-pic.png",
+      "PackagePath": "staticwebassets\\assets\\img\\ml-banner-image\\main-pic.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\night-mode.png",
+      "PackagePath": "staticwebassets\\assets\\img\\night-mode.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\oops-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\oops-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\partner-img\\partner-1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\partner-img\\partner-1.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\partner-img\\partner-10.png",
+      "PackagePath": "staticwebassets\\assets\\img\\partner-img\\partner-10.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\partner-img\\partner-11.png",
+      "PackagePath": "staticwebassets\\assets\\img\\partner-img\\partner-11.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\partner-img\\partner-12.png",
+      "PackagePath": "staticwebassets\\assets\\img\\partner-img\\partner-12.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\partner-img\\partner-13.png",
+      "PackagePath": "staticwebassets\\assets\\img\\partner-img\\partner-13.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\partner-img\\partner-14.png",
+      "PackagePath": "staticwebassets\\assets\\img\\partner-img\\partner-14.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\partner-img\\partner-15.png",
+      "PackagePath": "staticwebassets\\assets\\img\\partner-img\\partner-15.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\partner-img\\partner-16.png",
+      "PackagePath": "staticwebassets\\assets\\img\\partner-img\\partner-16.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\partner-img\\partner-17.png",
+      "PackagePath": "staticwebassets\\assets\\img\\partner-img\\partner-17.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\partner-img\\partner-18.png",
+      "PackagePath": "staticwebassets\\assets\\img\\partner-img\\partner-18.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\partner-img\\partner-2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\partner-img\\partner-2.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\partner-img\\partner-3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\partner-img\\partner-3.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\partner-img\\partner-4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\partner-img\\partner-4.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\partner-img\\partner-5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\partner-img\\partner-5.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\partner-img\\partner-6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\partner-img\\partner-6.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\partner-img\\partner-7.png",
+      "PackagePath": "staticwebassets\\assets\\img\\partner-img\\partner-7.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\partner-img\\partner-8.png",
+      "PackagePath": "staticwebassets\\assets\\img\\partner-img\\partner-8.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\partner-img\\partner-9.png",
+      "PackagePath": "staticwebassets\\assets\\img\\partner-img\\partner-9.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\partner-img\\partner-hover1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\partner-img\\partner-hover1.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\partner-img\\partner-hover10.png",
+      "PackagePath": "staticwebassets\\assets\\img\\partner-img\\partner-hover10.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\partner-img\\partner-hover11.png",
+      "PackagePath": "staticwebassets\\assets\\img\\partner-img\\partner-hover11.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\partner-img\\partner-hover12.png",
+      "PackagePath": "staticwebassets\\assets\\img\\partner-img\\partner-hover12.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\partner-img\\partner-hover13.png",
+      "PackagePath": "staticwebassets\\assets\\img\\partner-img\\partner-hover13.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\partner-img\\partner-hover14.png",
+      "PackagePath": "staticwebassets\\assets\\img\\partner-img\\partner-hover14.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\partner-img\\partner-hover15.png",
+      "PackagePath": "staticwebassets\\assets\\img\\partner-img\\partner-hover15.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\partner-img\\partner-hover16.png",
+      "PackagePath": "staticwebassets\\assets\\img\\partner-img\\partner-hover16.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\partner-img\\partner-hover17.png",
+      "PackagePath": "staticwebassets\\assets\\img\\partner-img\\partner-hover17.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\partner-img\\partner-hover18.png",
+      "PackagePath": "staticwebassets\\assets\\img\\partner-img\\partner-hover18.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\partner-img\\partner-hover2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\partner-img\\partner-hover2.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\partner-img\\partner-hover3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\partner-img\\partner-hover3.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\partner-img\\partner-hover4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\partner-img\\partner-hover4.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\partner-img\\partner-hover5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\partner-img\\partner-hover5.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\partner-img\\partner-hover6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\partner-img\\partner-hover6.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\partner-img\\partner-hover7.png",
+      "PackagePath": "staticwebassets\\assets\\img\\partner-img\\partner-hover7.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\partner-img\\partner-hover8.png",
+      "PackagePath": "staticwebassets\\assets\\img\\partner-img\\partner-hover8.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\partner-img\\partner-hover9.png",
+      "PackagePath": "staticwebassets\\assets\\img\\partner-img\\partner-hover9.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\payment-image\\1.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\payment-image\\1.svg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\payment-image\\2.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\payment-image\\2.svg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\payment-image\\3.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\payment-image\\3.svg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\payment-image\\4.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\payment-image\\4.svg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\payment-image\\5.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\payment-image\\5.svg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\payment-image\\6.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\payment-image\\6.svg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\payment-image\\7.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\payment-image\\7.svg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\projects-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\projects-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\projects-img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\projects-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\projects-img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\projects-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\projects-img4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\projects-img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\projects-img5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\projects-img5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\projects-img6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\projects-img6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\projects-img7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\projects-img7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\projects-img8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\projects-img8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\repair-banner-image\\1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\repair-banner-image\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\repair-banner-image\\2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\repair-banner-image\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\repair-banner-image\\circle.png",
+      "PackagePath": "staticwebassets\\assets\\img\\repair-banner-image\\circle.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\repair-banner-image\\repair-banner-img.png",
+      "PackagePath": "staticwebassets\\assets\\img\\repair-banner-image\\repair-banner-img.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\repair-services-img\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\repair-services-img\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\repair-services-img\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\repair-services-img\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\repair-services-img\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\repair-services-img\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\repair-services-img\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\repair-services-img\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\repair-services-img\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\repair-services-img\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\repair-services-img\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\repair-services-img\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\repair-team-image\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\repair-team-image\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\repair-team-image\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\repair-team-image\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\repair-team-image\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\repair-team-image\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\repair-team-image\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\repair-team-image\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\services-details-image\\1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\services-details-image\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\services-details-image\\2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\services-details-image\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\services-image\\1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\services-image\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\services-image\\2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\services-image\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\services-image\\3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\services-image\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\services-image\\4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\services-image\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\services-image\\5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\services-image\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\services-image\\6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\services-image\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\services-left-image\\big-monitor.png",
+      "PackagePath": "staticwebassets\\assets\\img\\services-left-image\\big-monitor.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\services-left-image\\cercle-shape.png",
+      "PackagePath": "staticwebassets\\assets\\img\\services-left-image\\cercle-shape.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\services-left-image\\creative.png",
+      "PackagePath": "staticwebassets\\assets\\img\\services-left-image\\creative.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\services-left-image\\developer.png",
+      "PackagePath": "staticwebassets\\assets\\img\\services-left-image\\developer.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\services-left-image\\flower-top.png",
+      "PackagePath": "staticwebassets\\assets\\img\\services-left-image\\flower-top.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\services-left-image\\main-pic.png",
+      "PackagePath": "staticwebassets\\assets\\img\\services-left-image\\main-pic.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\services-left-image\\small-monitor.png",
+      "PackagePath": "staticwebassets\\assets\\img\\services-left-image\\small-monitor.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\services-left-image\\small-top.png",
+      "PackagePath": "staticwebassets\\assets\\img\\services-left-image\\small-top.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\services-left-image\\table.png",
+      "PackagePath": "staticwebassets\\assets\\img\\services-left-image\\table.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\services-left-image\\target.png",
+      "PackagePath": "staticwebassets\\assets\\img\\services-left-image\\target.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\services-right-image\\book-self.png",
+      "PackagePath": "staticwebassets\\assets\\img\\services-right-image\\book-self.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\services-right-image\\box.png",
+      "PackagePath": "staticwebassets\\assets\\img\\services-right-image\\box.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\services-right-image\\cercle-shape.png",
+      "PackagePath": "staticwebassets\\assets\\img\\services-right-image\\cercle-shape.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\services-right-image\\chair.png",
+      "PackagePath": "staticwebassets\\assets\\img\\services-right-image\\chair.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\services-right-image\\cloud.png",
+      "PackagePath": "staticwebassets\\assets\\img\\services-right-image\\cloud.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\services-right-image\\cup.png",
+      "PackagePath": "staticwebassets\\assets\\img\\services-right-image\\cup.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\services-right-image\\flower-top.png",
+      "PackagePath": "staticwebassets\\assets\\img\\services-right-image\\flower-top.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\services-right-image\\head-phone.png",
+      "PackagePath": "staticwebassets\\assets\\img\\services-right-image\\head-phone.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\services-right-image\\main-pic.png",
+      "PackagePath": "staticwebassets\\assets\\img\\services-right-image\\main-pic.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\services-right-image\\monitor.png",
+      "PackagePath": "staticwebassets\\assets\\img\\services-right-image\\monitor.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\services-right-image\\mug.png",
+      "PackagePath": "staticwebassets\\assets\\img\\services-right-image\\mug.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\services-right-image\\table.png",
+      "PackagePath": "staticwebassets\\assets\\img\\services-right-image\\table.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\services-right-image\\tissue.png",
+      "PackagePath": "staticwebassets\\assets\\img\\services-right-image\\tissue.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\services-right-image\\water-bottle.png",
+      "PackagePath": "staticwebassets\\assets\\img\\services-right-image\\water-bottle.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\services-right-image\\wifi.png",
+      "PackagePath": "staticwebassets\\assets\\img\\services-right-image\\wifi.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\shape1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\shape1.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\shape2.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\shape2.svg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\shape3.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\shape3.svg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\shape4.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\shape4.svg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\shape5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\shape5.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\shop-image\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\shop-image\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\shop-image\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\shop-image\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\shop-image\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\shop-image\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\shop-image\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\shop-image\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\shop-image\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\shop-image\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\shop-image\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\shop-image\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\shop-image\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\shop-image\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\shop-image\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\shop-image\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\sun.png",
+      "PackagePath": "staticwebassets\\assets\\img\\sun.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\team-image\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team-image\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\team-image\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team-image\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\team-image\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team-image\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\team-image\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team-image\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\team-image\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team-image\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\white-logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\white-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\why-choose-us-image\\database.png",
+      "PackagePath": "staticwebassets\\assets\\img\\why-choose-us-image\\database.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\why-choose-us-image\\main-static.png",
+      "PackagePath": "staticwebassets\\assets\\img\\why-choose-us-image\\main-static.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\why-choose-us-image\\man-stand.png",
+      "PackagePath": "staticwebassets\\assets\\img\\why-choose-us-image\\man-stand.png"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\works-image\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\works-image\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\works-image\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\works-image\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\works-image\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\works-image\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\works-image\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\works-image\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\img\\works-image\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\works-image\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\js\\appear.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\appear.min.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\js\\contact-form-script.js",
+      "PackagePath": "staticwebassets\\assets\\js\\contact-form-script.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\js\\feather.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\feather.min.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\js\\form-validator.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\form-validator.min.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\js\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\js\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\js\\magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\js\\meanmenu.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\meanmenu.min.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\js\\odometer.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\odometer.min.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\assets\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\trant\\source\\repos\\eproject-sem3\\eproject-sem3\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.eproject-sem3.props",
+      "PackagePath": "build\\eproject-sem3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.eproject-sem3.props",
+      "PackagePath": "buildMultiTargeting\\eproject-sem3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.eproject-sem3.props",
+      "PackagePath": "buildTransitive\\eproject-sem3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.eproject-sem3.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
