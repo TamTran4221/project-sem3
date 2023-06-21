@@ -22,10 +22,39 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Areas\Admin\Controllers\" />
     <Folder Include="Areas\Admin\Data\" />
-    <Folder Include="Areas\Admin\Models\" />
-    <Folder Include="Areas\Admin\Views\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\assets\fonts\boxicons.woff2" />
+    <None Include="wwwroot\assets\fonts\boxiconsd41d.svg" />
+    <None Include="wwwroot\assets\fonts\Flaticon.svg" />
+    <None Include="wwwroot\assets\fonts\Flaticon.woff2" />
+    <None Include="wwwroot\assets\img\payment-image\1.svg" />
+    <None Include="wwwroot\assets\img\payment-image\2.svg" />
+    <None Include="wwwroot\assets\img\payment-image\3.svg" />
+    <None Include="wwwroot\assets\img\payment-image\4.svg" />
+    <None Include="wwwroot\assets\img\payment-image\5.svg" />
+    <None Include="wwwroot\assets\img\payment-image\6.svg" />
+    <None Include="wwwroot\assets\img\payment-image\7.svg" />
+    <None Include="wwwroot\assets\img\shape2.svg" />
+    <None Include="wwwroot\assets\img\shape3.svg" />
+    <None Include="wwwroot\assets\img\shape4.svg" />
+    <None Include="wwwroot\assets\js\appear.min.js" />
+    <None Include="wwwroot\assets\js\bootstrap.bundle.min.js" />
+    <None Include="wwwroot\assets\js\contact-form-script.js" />
+    <None Include="wwwroot\assets\js\feather.min.js" />
+    <None Include="wwwroot\assets\js\form-validator.min.js" />
+    <None Include="wwwroot\assets\js\imagesloaded.pkgd.min.js" />
+    <None Include="wwwroot\assets\js\isotope.pkgd.min.js" />
+    <None Include="wwwroot\assets\js\jquery.min.js" />
+    <None Include="wwwroot\assets\js\magnific-popup.min.js" />
+    <None Include="wwwroot\assets\js\main.js" />
+    <None Include="wwwroot\assets\js\meanmenu.min.js" />
+    <None Include="wwwroot\assets\js\odometer.min.js" />
+    <None Include="wwwroot\assets\js\owl.carousel.min.js" />
+    <None Include="wwwroot\assets\js\slick.min.js" />
+    <None Include="wwwroot\assets\js\wow.min.js" />
   </ItemGroup>
 
 </Project>
