@@ -2,7 +2,6 @@
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
-    <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <UserSecretsId>aspnet-eproject_sem3-3ff29782-f4c9-46a1-b2a0-fb652f2e7935</UserSecretsId>
     <RootNamespace>eproject_sem3</RootNamespace>

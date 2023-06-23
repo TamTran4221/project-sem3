@@ -33,7 +33,7 @@ namespace eproject_sem3.Areas.Admin.Controllers
 		{
 			if (ModelState.IsValid)
 			{
-				User acc = _context.users.FirstOrDefault(a => a.Email.Equals(model.Email) && a.Password.Equals(model.Password));
+				User acc = _context.Users.FirstOrDefault(a => a.Email.Equals(model.Email) && a.Password.Equals(model.Password));
 
 				if (acc != null)
 				{

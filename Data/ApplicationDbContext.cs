@@ -8,14 +8,14 @@ namespace eproject_sem3.Data
     public class ApplicationDbContext : IdentityDbContext
     {
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options): base(options){}
-        public DbSet<User> users { get; set; }
-        public DbSet<Product> products { get; set; }    
-        public DbSet<Services> services { get; set; }
-        public DbSet<Blog> blogs { get; set; }
-        public DbSet<ServicesDetail> servicesDetail { get; set; }
-        public  DbSet<Order> orders { get; set; }
-        public DbSet<OrderDetail> ordersDetail { get; set; }
-        public DbSet<Carts> carts { get; set; }
+        public DbSet<User> Users { get; set; }
+        public DbSet<Product> Products { get; set; }    
+        public DbSet<Services> Services { get; set; }
+        public DbSet<Blog> Blogs { get; set; }
+        public DbSet<ServicesDetail> ServicesDetail { get; set; }
+        public  DbSet<Order> Orders { get; set; }
+        public DbSet<OrderDetail> OrdersDetail { get; set; }
+        public DbSet<Carts> Carts { get; set; }
        
 
     }
