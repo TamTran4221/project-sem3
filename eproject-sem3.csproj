@@ -21,10 +21,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Areas\Admin\Data\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <None Include="wwwroot\assets\fonts\boxicons.woff2" />
     <None Include="wwwroot\assets\fonts\boxiconsd41d.svg" />
     <None Include="wwwroot\assets\fonts\Flaticon.svg" />

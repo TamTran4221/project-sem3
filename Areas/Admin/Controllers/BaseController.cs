@@ -3,7 +3,6 @@ using Microsoft.AspNetCore.Mvc.Filters;
 
 namespace eproject_sem3.Areas.Admin.Controllers
 {
-    [Area("Admin")]
     public class BaseController : Controller, IActionFilter
     {
         public override void OnActionExecuting(ActionExecutingContext context)

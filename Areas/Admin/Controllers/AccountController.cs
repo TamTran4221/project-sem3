@@ -8,7 +8,8 @@ using System.Security.Principal;
 
 namespace eproject_sem3.Areas.Admin.Controllers
 {
-	public class AccountController : BaseController
+	[Area("Admin")]
+	public class AccountController : Controller
 	{
 		private readonly ApplicationDbContext _context;
 
